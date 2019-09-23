@@ -1,5 +1,12 @@
 # Simple car advert module (test) for CakePHP
 
+## Requirements
+PHP 7.1  
+MySQL 5.7  
+fileinfo extension  
+gd extension  
+See also CakePHP requirements
+
 ## Installation
 1. Clone this repository  
 2. Import SQL from `data/dump.sql`  
